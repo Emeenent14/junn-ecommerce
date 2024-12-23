@@ -111,7 +111,7 @@ const Header: React.FC = () => {
             ${scrolled ? 'text-gray-700' : 'text-white'}
             transition-colors duration-300
           `}>
-            Zella
+            Junn
           </h1>
         </Link>
 
