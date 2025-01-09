@@ -1,6 +1,6 @@
-# Zella
+# Junn
 
-Zella is an e-commerce web application built with [Next.js](https://nextjs.org/) and styled using [Tailwind CSS](https://tailwindcss.com/). It uses [Zustand](https://github.com/pmndrs/zustand) for state management, providing a seamless shopping experience with features like browsing products, managing a shopping cart, and checking out.If you like it please give it a star :)
+Junn is an e-commerce web application built with [Next.js](https://nextjs.org/) and styled using [Tailwind CSS](https://tailwindcss.com/). It uses [Zustand](https://github.com/pmndrs/zustand) for state management, providing a seamless shopping experience with features like browsing products, managing a shopping cart, and checking out.If you like it please give it a star :)
 
 ## Table of Contents
 - [Demo](#demo)
@@ -32,7 +32,7 @@ Check out the live version here: [Zella Demo](https://zilla-nu.vercel.app/)
 The file structure follows a typical Next.js application:
 
 ```plaintext
-zella/
+Junn/
 ├── components/        # Reusable UI components
 ├── pages/             # Application routes
 │   ├── index.js       # Home page
@@ -55,7 +55,7 @@ zella/
 1. Clone the repository
 ```bash
 git clone https://github.com/Kreesta-r/zilla-ecommerce
-cd zella
+cd Junn
 ```
 
 2. Install dependencies
