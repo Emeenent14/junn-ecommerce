@@ -13,8 +13,6 @@ Junn is an e-commerce web application built with [Next.js](https://nextjs.org/) 
 - [State Management](#state-management)
 - [License](#license)
 
-## Demo
-Check out the live version here: [Zella Demo](https://zilla-nu.vercel.app/)
 
 ## Features
 - **Home Page**: Product listings with search and filter capabilities.
@@ -54,7 +52,7 @@ Junn/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Kreesta-r/zilla-ecommerce
+git clone https://github.com/Emeenent14/Junn-ecommerce.git
 cd Junn
 ```
 
@@ -126,4 +124,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Kreesta - [kreestalegend@gmail.com]
 
-Project Link:https://github.com/Kreesta-r/zilla-ecommerce
+Project Link:https://github.com/Emeenent14/Junn-ecommerce.git
